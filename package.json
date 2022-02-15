@@ -1,0 +1,14 @@
+{
+  "name": "ConceptsDevOps",
+  "version": "1",
+  "main": "index.js",
+  "repository": "git@github.com:Gael6437/concept-devops.git",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.35"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}
